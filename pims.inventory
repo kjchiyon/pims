@@ -1,0 +1,124 @@
+10
+panadol 5 5
+GSK pain reliever panadol 20 tablets
+b0 20 1 2022 12 2 2022 42
+
+b1 20 1 2022 12 2 2026 42
+
+b2 20 1 2026 12 2 2026 42
+emergency restock
+b3 20 1 2026 12 2 2026 42
+
+b4 20 1 2026 12 2 2026 42
+
+vicks 2 2
+P&G cough medicine 2oz
+b0 20 1 2026 12 2 2026 42
+ 
+b1 20 1 2026 12 2 2026 42
+ 
+yakult 5 5
+Yakult cultured drink 80ml
+b0 20 1 2022 12 2 2022 42
+
+b1 20 1 2026 12 2 2026 42
+
+b2 20 1 2026 12 2 2026 42
+
+b3 20 1 2026 12 2 2026 42
+
+b4 20 1 2026 12 2 2026 42
+
+centrum 1 1
+Pfizer multivitamin 20 tablets
+b0 20 1 2026 30 4 2027 124
+
+bandaid 4 3
+J&J bandage 100 assorted
+b1 20 1 2026 7 9 2025 18
+
+b2 20 1 2026 12 2 2026 70
+
+b3 20 1 2026 23 6 2026 30
+supplier additional stock
+dettol 2 2
+Dettol antiseptic 500ml
+b0 20 1 2026 15 5 2022 65
+
+b1 20 1 2026 22 8 2027 65
+
+oralb 3 3
+P&G toothbrush 3 in 1
+b0 20 1 2026 12 2 2022 42
+2020 manufacture version
+b1 20 1 2026 12 2 2026 42
+
+b2 20 1 2026 12 2 2026 42
+
+tampax 3 3
+P&G tampons 14 regular
+b0 20 1 2024 12 2 2026 42
+
+b1 20 1 2026 12 2 2026 42
+
+b2 20 1 2026 12 2 2026 42
+
+huggies 3 3
+Kimberly-Clark baby diapers 96 pack
+b0 20 1 2026 12 2 2026 42
+2022 manufacture version
+b1 20 1 2026 12 2 2026 42
+ 
+b2 20 1 2026 12 2 2026 42
+ 
+gatorade 4 4
+Gatorade sports drinks original
+b0 20 1 2024 12 2 2022 42
+
+b1 20 1 2025 12 2 2026 42
+
+b2 20 1 2026 12 2 2026 42
+
+b3 20 1 2026 12 2 2026 42
+
+40 40
+t0 advil b0 20 1 2026 2 130
+t1 bandaid b0 20 1 2026 2 60
+t2 bandaid b1 20 1 2026 2 50
+t3 bandaid b2 20 1 2026 2 70
+t4 bandaid b3 20 1 2026 2 30
+t5 centrum b0 20 1 2026 2 124
+t6 dettol b0 20 1 2026 2 65
+t7 dettol b1 20 1 2026 2 65
+t8 gatorade b0 20 1 2026 2 42
+t9 gatorade b1 20 1 2026 2 42
+t10 gatorade b2 20 1 2026 2 42
+t11 gatorade b3 20 1 2026 2 42
+t12 huggies b0 20 1 2026 2 42
+t13 huggies b1 20 1 2026 2 42
+t14 huggies b2 20 1 2026 2 42
+t15 oralb b0 20 1 2026 2 42
+t16 oralb b1 20 1 2026 2 42
+t17 oralb b2 20 1 2026 2 42
+t18 panadol b0 20 1 2026 2 42
+t19 panadol b1 20 1 2026 2 42
+t20 panadol b2 20 1 2026 2 42
+t21 panadol b3 20 1 2026 2 42
+t22 panadol b4 20 1 2026 2 42
+t23 tampax b0 20 1 2026 2 42
+t24 tampax b1 20 1 2026 2 42
+t25 tampax b2 20 1 2026 2 42
+t26 vicks b0 20 1 2026 2 42
+t27 vicks b1 20 1 2026 2 42
+t28 yakult b0 20 1 2026 2 42
+t29 yakult b1 20 1 2026 2 42
+t30 yakult b2 20 1 2026 2 42
+t31 yakult b3 20 1 2026 2 42
+t32 yakult b4 20 1 2026 2 42
+t33 bandaid b0 20 1 2026 0 5
+t34 bandaid b1 20 1 2026 0 18
+t35 bandaid b0 20 1 2026 1 13
+t36 pills b0 24 1 2026 2 100
+t37 pills b0 24 1 2026 0 80
+t38 bandaid b0 25 1 2026 0 4
+t39 bandaid b0 25 1 2026 3 9
