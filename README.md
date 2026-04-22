@@ -17,4 +17,4 @@ A simple program with console GUI that helps manage the inventory of a pharmacy 
 
 (but generally can be applied to any store's inventory, pharmacy is chosen for project titling's sake)
 
-A documentation file can be found in the repo.
+Documentation and manual can be found in the file "2A_Group2_FinalReport.pdf".
